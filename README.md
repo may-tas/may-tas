@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @may-tas
-- 👀 I’m interested in App Development.
+- 👀 I’m interested in App Development and Computational Chemistry ( Kind of weird combination right lol).
 - 🌱 I’m currently learning Flutter with Dart.
-- 💞️ I’m looking to collaborate on Android App project.
+- 💞️ I’m looking to collaborate on App project or a computaional chemistry project .
 - 📫 Reach me at mail : satyam.jha.phe22@itbhu.ac.in
 
 <!---
