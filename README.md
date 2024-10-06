@@ -5,4 +5,5 @@
 - 💞️ I’m looking to collaborate on an App or computational chemistry project.
 - 📫 Reach me at mail: satyam.jha.phe22@itbhu.ac.in
 
+![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=may-tas&show_icons=true&theme=radical)
 
