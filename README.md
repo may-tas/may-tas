@@ -7,3 +7,4 @@
 
 ![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=may-tas&show_icons=true&theme=radical)
 
+[![An image of @livingfreely's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/livingfreely)](https://holopin.io/@livingfreely)
